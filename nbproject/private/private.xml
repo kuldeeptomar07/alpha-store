@@ -2,16 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/kulde/Documents/NetBeansProjects/Alpha%20Bookstore/web/product.jsp</file>
-            <file>file:/C:/Users/kulde/Documents/NetBeansProjects/Alpha%20Bookstore/src/java/user/user.java</file>
-            <file>file:/C:/Users/kulde/Documents/NetBeansProjects/Alpha%20Bookstore/web/viewProducts_.jsp</file>
-            <file>file:/C:/Users/kulde/Documents/NetBeansProjects/Alpha%20Bookstore/web/includesPage/_joinNow.jsp</file>
-            <file>file:/C:/Users/kulde/Documents/NetBeansProjects/Alpha%20Bookstore/src/java/database/DB_Conn.java</file>
-            <file>file:/C:/Users/kulde/Documents/NetBeansProjects/Alpha%20Bookstore/src/java/product/addProduct.java</file>
-            <file>file:/C:/Users/kulde/Documents/NetBeansProjects/Alpha%20Bookstore/web/index.jsp</file>
-            <file>file:/C:/Users/kulde/Documents/NetBeansProjects/Alpha%20Bookstore/web/admin_.jsp</file>
-            <file>file:/C:/Users/kulde/Documents/NetBeansProjects/Alpha%20Bookstore/web/WEB-INF/web.xml</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
